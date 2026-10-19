@@ -1,5 +1,6 @@
 A 3d printable desk mount that clamps onto the desk
 
+<img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/f28a4d80-84f7-414e-9fa7-9ce594a3d62c" />
 
 
 Using various pivot points, the arm is able to move along the major axis
@@ -26,6 +27,8 @@ Has some `.step` files, but the original Free Cad file is at the root directory
 
 `Exports/Print Ready Files/` Houses the 3mf files,
 `Exports/Print Ready Files/joint 4mm/` is where the joints are that are double checked to be consistent
+
+`Exports/Render Stl/` stores the stl files used for the render
 
 
 Built using FreeCAD
