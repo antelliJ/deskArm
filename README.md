@@ -33,16 +33,18 @@ Has some `.step` files, but the original Free Cad file is at the root directory
 
 ## Parts list
 
-| Part             | Qty   | Unit $          | Purpose                                                            |
-| ---------------- | ----- | --------------- | ------------------------------------------------------------------ |
-| M3.5 or M4 Bolts | ~3    | Provided Myself | Used throughout the structure for stable connections               |
-| M3.5 or M4 Nuts  | ~3    |                 |                                                                    |
-| M8 Bolt          | 1     | Provided Myself | For Securing Mount to desk                                         |
-| M8 Nut           | 1     |                 |                                                                    |
-|                  |       |                 |                                                                    |
-| Filament         | ~125g | Printed Myself  | A lot of the structure can be 3d printed, or designed by yourself. |
+| Part             | Qty   | Unit $          | Purpose                                                            | Potential Link |
+| ---------------- | ----- | --------------- | ------------------------------------------------------------------ | -------------- |
+| M3.5 or M4 Bolts | ~3    | Provided Myself | Used throughout the structure for stable connections               | [Amazon assorted bolts](https://www.amazon.ca/gp/product/B0CLPGJR77)
+| M3.5 or M4 Nuts  | ~3    |                 |                                                                    | [Amazon assorted bolts](https://www.amazon.ca/gp/product/B0CLPGJR77)
+| M8 Bolt          | 1     | Provided Myself | For Securing Mount to desk                                         | [Amazon assorted bolts](https://www.amazon.ca/gp/product/B0CLPGJR77)
+| M8 Nut           | 1     |                 |                                                                    | [Amazon assorted bolts](https://www.amazon.ca/gp/product/B0CLPGJR77)
+|                  |       |                 |                                                                    | |
+| Filament         | ~125g | Printed Myself  | A lot of the structure can be 3d printed, or designed by yourself. | |
 
 A lot of variation can be made from making your own pieces that use the standard connectors, so the things you choose to and not to print can drastically change what you need, in filament and thte amount of connectors you use. For instance, I already have some clamps I intend to use on my desk that I expect to be stronger than a 3d printed version, so for me I wouldn't print that. I also don't need that much extra length from many connectors.
+
+M3.5 - M4 are just the smallest ones I had on hand, but it should be easy enough to drill / hand-thread bigger bolts in
 
 Built using FreeCAD
 
